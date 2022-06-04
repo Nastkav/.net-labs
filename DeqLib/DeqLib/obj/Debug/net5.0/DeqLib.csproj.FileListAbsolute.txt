@@ -1,0 +1,16 @@
+C:\Users\galin\source\repos\DeqLib\DeqLib\bin\Debug\net5.0\DeqLib.exe
+C:\Users\galin\source\repos\DeqLib\DeqLib\bin\Debug\net5.0\DeqLib.deps.json
+C:\Users\galin\source\repos\DeqLib\DeqLib\bin\Debug\net5.0\DeqLib.runtimeconfig.json
+C:\Users\galin\source\repos\DeqLib\DeqLib\bin\Debug\net5.0\DeqLib.runtimeconfig.dev.json
+C:\Users\galin\source\repos\DeqLib\DeqLib\bin\Debug\net5.0\DeqLib.dll
+C:\Users\galin\source\repos\DeqLib\DeqLib\bin\Debug\net5.0\ref\DeqLib.dll
+C:\Users\galin\source\repos\DeqLib\DeqLib\bin\Debug\net5.0\DeqLib.pdb
+C:\Users\galin\source\repos\DeqLib\DeqLib\obj\Debug\net5.0\DeqLib.csprojAssemblyReference.cache
+C:\Users\galin\source\repos\DeqLib\DeqLib\obj\Debug\net5.0\DeqLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galin\source\repos\DeqLib\DeqLib\obj\Debug\net5.0\DeqLib.AssemblyInfoInputs.cache
+C:\Users\galin\source\repos\DeqLib\DeqLib\obj\Debug\net5.0\DeqLib.AssemblyInfo.cs
+C:\Users\galin\source\repos\DeqLib\DeqLib\obj\Debug\net5.0\DeqLib.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\DeqLib\DeqLib\obj\Debug\net5.0\DeqLib.dll
+C:\Users\galin\source\repos\DeqLib\DeqLib\obj\Debug\net5.0\ref\DeqLib.dll
+C:\Users\galin\source\repos\DeqLib\DeqLib\obj\Debug\net5.0\DeqLib.pdb
+C:\Users\galin\source\repos\DeqLib\DeqLib\obj\Debug\net5.0\DeqLib.genruntimeconfig.cache
